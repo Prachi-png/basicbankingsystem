@@ -1,2 +1,0 @@
-# taskcode
-for project purposes
